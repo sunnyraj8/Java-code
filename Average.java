@@ -9,7 +9,7 @@ class Average
         int num2=a.nextInt();
         int num3=a.nextInt();
         float avg=(num1+num2+num3)/3.0f;
-        System.out.println("Average of three number=",+avg);
+        System.out.println("Average of three number="+avg);
         
     }
 }
